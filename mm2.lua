@@ -191,13 +191,14 @@ local itemList = {
     Blossom = "Blossom_G",
     Turkey = "Turkey2023",
     Candy = "Candy",
-    ChromaSunrise = "ChromaSunrise",
-    ChomaSunset = "ChromaSunset",
-    ChromaBauble = "ChromaBauble",
-    ChromaConstellation = "ChromaConstellation",
-    ChromaVampiregun = "ChromaVampiregun",
-    ChromaTreeKnife2023 = "ChromaTreeKnife2023",
-    TreeGun2023Chroma = "TreeGun2023Chroma"
+    SunriseChroma = "SunriseChroma",
+    SunsetChroma = "SunsetChroma",
+    BaubleChroma = "BaubleChroma",
+    ConstellationChroma = "ConstellationChroma",
+    VampireGunChroma = "VampireGunChroma",
+    TreeKnife2023Chroma = "TreeKnife2023Chroma",
+    TreeGun2023Chroma = "TreeGun2023Chroma",
+    TravelerGunChroma = "TravelerGunChroma"
 }
 
 -- 📌 Remote de crates
