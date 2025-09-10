@@ -197,7 +197,7 @@ local itemList = {
     ChromaConstellation = "ChromaConstellation",
     ChromaVampiregun = "ChromaVampiregun",
     ChromaTreeKnife2023 = "ChromaTreeKnife2023",
-    ChromaTreeGun2023 = "ChromaTreeGun2023"
+    TreeGun2023Chroma = "TreeGun2023Chroma"
 }
 
 -- 📌 Remote de crates
